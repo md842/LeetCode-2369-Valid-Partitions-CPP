@@ -1,5 +1,5 @@
 # LeetCode #2369: Check if There is a Valid Partition For The Array (Daily Challenge 08/13/2023)
-This repository contains a C++ solution to the LeetCode daily challenge #2369 for 08/12/2023. https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+This repository contains a C++ solution to the LeetCode daily challenge #2369 for 08/13/2023. https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 This solution beats 99.8% of users in runtime (111 ms) and 84.31% of users in memory usage (84.17 MB). 
 
